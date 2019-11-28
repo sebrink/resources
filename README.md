@@ -75,8 +75,8 @@ This is my collection of resources for learning computing security. They are mos
   - Walkthroughs of retired Hack The Box machines.
 - [Vulnhub](https://www.vulnhub.com/)
   - Intentionally vulnerable VMs.
-- [GTFOBins](https://gtfobins.github.io/)
-  - Binaries that, if you have access to run in a privileged context, you can use to escalate your privileges.
+- [Intro to Cobalt Strike](https://www.youtube.com/watch?v=q7VQeK533zI&list=PL9HO6M_MU2nfQ4kHSCzAQMqxQxH47d1no)
+  - Cobalt Strike youtube series made by the creator of cobalt strike.
 
 ### CTF
 - [CTFtime](https://ctftime.org/about/)
