@@ -24,6 +24,8 @@ This is my collection of resources for learning computing security. They are mos
 ### Coding
 - [Introduction to Git](https://git-scm.com/book/en/v2)
   - An easy guide on learning how to use git
+- [Code Academy](https://www.codecademy.com/)
+  - Interactive courses for learning new languages.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - Book on using python to automate repetitive tasks.
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
