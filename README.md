@@ -17,7 +17,7 @@
     - [\#\#TODO](#todo)
 
 ## Introduction
-This is my collection of resources for learning computing security. They are mostly interactive, but some sections may contain reading or tools that I feel are worth including. Feel free to make pull requests to add whatever you would like. This is listed in no order whatsoever.
+This is my collection of resources for learning computing security. They are mostly interactive, but some sections may contain reading or tools that I feel are worth including. This is not meant to be comprehensive whatsoever, this is meant to just be where I keep track of stuff that I find useful. Feel free to make pull requests to add whatever you would like. This is listed in no order whatsoever.
 
 ### Coding
 - [Introduction to Git](https://git-scm.com/book/en/v2)
