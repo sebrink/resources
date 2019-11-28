@@ -28,7 +28,9 @@ This is my collection of resources for learning computing security. They are mos
 ### Infrastructure
 - [Introduction to Docker](https://www.katacoda.com/courses/docker/)
   - Interactive course on understanding docker.
-  
+- [Introduction to Vagrant](https://psadmin.io/2016/10/04/introduction-to-vagrant/)
+  - Introduction on how to use vagrant for fast deployment of virtual machines. 
+
 ### Web Application Security
 - [OWASP Top 10](https://www.owasp.org/index.php/Main_Page)
   - A list of the top 10 most common web app vulnerabilities.
@@ -102,7 +104,6 @@ This is my collection of resources for learning computing security. They are mos
 
 ### \#\#TODO
 - Things to add
-  - Vagrant
   - Ansible
   - Terraform
   - More blue team stuff
