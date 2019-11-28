@@ -7,6 +7,7 @@
     - [Coding](#coding)
     - [Introduction to Linux](#introduction-to-linux)
     - [Infrastructure](#infrastructure)
+    - [Windows Blue Team](#windows-blue-team)
     - [Web Application Security](#web-application-security)
     - [Mobile Application Security](#mobile-application-security)
     - [Network Penetration Testing](#network-penetration-testing)
@@ -23,6 +24,8 @@ This is my collection of resources for learning computing security. They are mos
 ### Coding
 - [Introduction to Git](https://git-scm.com/book/en/v2)
   - An easy guide on learning how to use git
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+  - Book on using python to automate repetitive tasks.
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
   - A list of projects for you to complete in many different languages.
   
@@ -37,6 +40,10 @@ This is my collection of resources for learning computing security. They are mos
   - Interactive course on understanding docker.
 - [Introduction to Vagrant](https://psadmin.io/2016/10/04/introduction-to-vagrant/)
   - Introduction on how to use vagrant for fast deployment of virtual machines. 
+
+### Windows Blue Team
+- [Introduction to Sysintenals](https://docs.microsoft.com/en-us/sysinternals/learn/troubleshooting-book)
+  - A book on the usage of Windows Sysinternals Tools, a powerful set of tools for gaining insight to a windows OS.
 
 ### Web Application Security
 - [OWASP Top 10](https://www.owasp.org/index.php/Main_Page)
@@ -77,8 +84,10 @@ This is my collection of resources for learning computing security. They are mos
   - Intentionally vulnerable VMs.
 - [Intro to Cobalt Strike](https://www.youtube.com/watch?v=q7VQeK533zI&list=PL9HO6M_MU2nfQ4kHSCzAQMqxQxH47d1no)
   - Cobalt Strike youtube series made by the creator of cobalt strike.
-- [Active Directory](https://github.com/infosecn1nja/AD-Attack-Defense)
+- [Active Directory Attack and Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
   - In depth guide on active directory attack and defense techniques.
+- [Active Directory Security Blog](https://adsecurity.org/)
+  - Blog on active directory security topics.
 
 ### CTF
 - [CTFtime](https://ctftime.org/about/)
@@ -121,3 +130,4 @@ This is my collection of resources for learning computing security. They are mos
   - More coding stuff
   - Some networking stuff
   - Bug bounty stuff
+  - Other things I have yet to list
