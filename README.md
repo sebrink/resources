@@ -5,6 +5,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
     - [Coding](#coding)
+    - [Introduction to Linux](#introduction-to-linux)
     - [Infrastructure](#infrastructure)
     - [Web Application Security](#web-application-security)
     - [Mobile Application Security](#mobile-application-security)
@@ -25,6 +26,12 @@ This is my collection of resources for learning computing security. They are mos
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
   - A list of projects for you to complete in many different languages.
   
+### Introduction to Linux
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
+  - Wargames designed to learn the basics of linux.
+- [Linux Journey](https://linuxjourney.com/)
+  - Interactive course to learn the basics of linux.
+   
 ### Infrastructure
 - [Introduction to Docker](https://www.katacoda.com/courses/docker/)
   - Interactive course on understanding docker.
@@ -36,6 +43,8 @@ This is my collection of resources for learning computing security. They are mos
   - A list of the top 10 most common web app vulnerabilities.
 - [The Web Application Hacker's Handbook 2](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S)
   - The bible. There are probably cheaper options out there somewhere on the internet 👀
+- [OverTheWire: Natas](https://overthewire.org/wargames/natas/)
+  - Wargames designed to learn the basics of server side web security.
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/)
   - A beginner PHP/Mysql vulnerable web application.
 - [OWASP Juice Shop](https://www2.owasp.org/www-project-juice-shop/)
