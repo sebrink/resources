@@ -77,6 +77,8 @@ This is my collection of resources for learning computing security. They are mos
   - Intentionally vulnerable VMs.
 - [Intro to Cobalt Strike](https://www.youtube.com/watch?v=q7VQeK533zI&list=PL9HO6M_MU2nfQ4kHSCzAQMqxQxH47d1no)
   - Cobalt Strike youtube series made by the creator of cobalt strike.
+- [Active Directory](https://github.com/infosecn1nja/AD-Attack-Defense)
+  - In depth guide on active directory attack and defense techniques.
 
 ### CTF
 - [CTFtime](https://ctftime.org/about/)
