@@ -21,6 +21,7 @@ This is my collection of resources for learning computing security. They are mos
     - [Cheat Sheets](#cheat-sheets)
     - [Useful Subreddits](#useful-subreddits)
     - [Youtube Channels](#youtube-channels)
+    - [Bug Bountys](#bug-bountys)
     - [\#\#TODO](#todo)
 
 ### Coding
@@ -51,7 +52,6 @@ This is my collection of resources for learning computing security. They are mos
   - Interactive course on understanding docker.
 - [Introduction to Vagrant](https://psadmin.io/2016/10/04/introduction-to-vagrant/)
   - Introduction on how to use vagrant for fast deployment of virtual machines. 
--[
 
 ### Windows Blue Team
 - [Introduction to Sysintenals](https://docs.microsoft.com/en-us/sysinternals/learn/troubleshooting-book)
@@ -133,7 +133,7 @@ This is my collection of resources for learning computing security. They are mos
 - [List of Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets)
   - List of useful windows logging cheatsheets
 - [(Large) Windows Forensics Cheatsheet](https://www.jaiminton.com/cheatsheet/DFIR)
-  -Large Cheetsheet on Windows Forensics
+  - Large Cheetsheet on Windows Forensics
   
 ### Useful Subreddits
 - [/r/netsec](https://www.reddit.com/r/netsec/)
@@ -184,6 +184,9 @@ This is my collection of resources for learning computing security. They are mos
  ### To Be Sorted
  - [Hacker Sploit](https://hackersploit.org)
  
+ ### Bug Bountys
+  - [BugCrowd](https://www.bugcrowd.com/)
+  - [Hacker 1](https://www.hackerone.com/)
  
 ### \#\#TODO
 - Things to add
