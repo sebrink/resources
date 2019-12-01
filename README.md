@@ -139,6 +139,22 @@ This is my collection of resources for learning computing security. They are mos
 - [/r/netsec](https://www.reddit.com/r/netsec/)
 - [/r/asknetsec](https://www.reddit.com/r/asknetsec/)
 - [/r/netsecstudents](https://www.reddit.com/r/netsecstudents/)
+- [/r/cybersecurity](https://www.reddit.com/r/cybersecurity)
+- [/r/blueteamsec](https://www.reddit.com/r/blueteamsec/)
+- [/r/ceos3c](https://www.reddit.com/r/ceos3c/)
+- [/r/computer forensics](https://www.reddit.com/r/computerforensics/)
+- [/r/cryptography](https://www.reddit.com/r/cryptography/)
+- [/r/crypto](https://www.reddit.com/r/crypto/)
+- [/r/encryption](https://www.reddit.com/r/encryption/)
+- [/r/hackernews](https://www.reddit.com/r/hackernews/)
+- [/r/hacking](https://www.reddit.com/r/hacking/)
+- [/r/hacking_tutorials](https://www.reddit.com/r/Hacking_Tutorials/)
+- [/r/homelab](https://www.reddit.com/r/homelab/)
+- [/r/newtworking](https://www.reddit.com/r/networking/)
+- [/r/howtohack](https://www.reddit.com/r/HowToHack/)
+- [/r/sysadmin](https://www.reddit.com/r/sysadmin/)
+- [/r/securityblueteam](https://www.reddit.com/r/SecurityBlueTeam/)
+- [/r/security](https://www.reddit.com/r/security/)
 
 ### Youtube Channels
  - [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
@@ -164,6 +180,10 @@ This is my collection of resources for learning computing security. They are mos
  ### Books/Publishers
  - [No Starch Press](https://nostarch.com/)
  - [Paket Press](https://www.packtpub.com/)
+ 
+ ### To Be Sorted
+ - [Hacker Sploit](https://hackersploit.org)
+ 
  
 ### \#\#TODO
 - Things to add
