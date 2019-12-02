@@ -9,6 +9,7 @@ This is my collection of resources for learning computing security. They are mos
   - [Table of Contents](#table-of-contents)
     - [Coding](#coding)
     - [Introduction to Linux](#introduction-to-linux)
+    - [Networking](#networking)
     - [Infrastructure](#infrastructure)
     - [Windows Blue Team](#windows-blue-team)
     - [Web Application Security](#web-application-security)
@@ -19,6 +20,8 @@ This is my collection of resources for learning computing security. They are mos
     - [Crypto](#crypto)
     - [Cheat Sheets](#cheat-sheets)
     - [Useful Subreddits](#useful-subreddits)
+    - [Youtube Channels](#youtube-channels)
+    - [Bug Bountys](#bug-bountys)
     - [\#\#TODO](#todo)
 
 ### Coding
@@ -30,14 +33,21 @@ This is my collection of resources for learning computing security. They are mos
   - Book on using python to automate repetitive tasks.
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
   - A list of projects for you to complete in many different languages.
+- [Free Code Camp](freeCodeCamp.org)
+  - A free website to learn web Development and their youtube channel has alot of great tutorials
   
 ### Introduction to Linux
 - [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
   - Wargames designed to learn the basics of linux.
 - [Linux Journey](https://linuxjourney.com/)
   - Interactive course to learn the basics of linux.
-   
+  
+### Networking 
+ - Vinsolev Academy under youtube channels
+ 
 ### Infrastructure
+- Ansiable
+- Terraform
 - [Introduction to Docker](https://www.katacoda.com/courses/docker/)
   - Interactive course on understanding docker.
 - [Introduction to Vagrant](https://psadmin.io/2016/10/04/introduction-to-vagrant/)
@@ -118,18 +128,70 @@ This is my collection of resources for learning computing security. They are mos
   - Helpful cheat sheets for remembering syntax.
 - [Assorted Pentest](https://dostoevskylabs.gitbooks.io/dostoevskylabs-pentest-notes/content/)
   - Gitbook of some pentesting notes, slightly outdated.
-
+- [Generic Tools Cheatsheet](https://imgur.com/a/3BLzONa#WCEP0nG)
+  - Some generic tools and techniques
+- [List of Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets)
+  - List of useful windows logging cheatsheets
+- [(Large) Windows Forensics Cheatsheet](https://www.jaiminton.com/cheatsheet/DFIR)
+  - Large Cheetsheet on Windows Forensics
+  
 ### Useful Subreddits
 - [/r/netsec](https://www.reddit.com/r/netsec/)
 - [/r/asknetsec](https://www.reddit.com/r/asknetsec/)
-- [/r/netsecstudents](https://www.reddit.com/r/netsecstudents/) 
+- [/r/netsecstudents](https://www.reddit.com/r/netsecstudents/)
+- [/r/cybersecurity](https://www.reddit.com/r/cybersecurity)
+- [/r/blueteamsec](https://www.reddit.com/r/blueteamsec/)
+- [/r/ceos3c](https://www.reddit.com/r/ceos3c/)
+- [/r/computer forensics](https://www.reddit.com/r/computerforensics/)
+- [/r/cryptography](https://www.reddit.com/r/cryptography/)
+- [/r/crypto](https://www.reddit.com/r/crypto/)
+- [/r/encryption](https://www.reddit.com/r/encryption/)
+- [/r/hackernews](https://www.reddit.com/r/hackernews/)
+- [/r/hacking](https://www.reddit.com/r/hacking/)
+- [/r/hacking_tutorials](https://www.reddit.com/r/Hacking_Tutorials/)
+- [/r/homelab](https://www.reddit.com/r/homelab/)
+- [/r/newtworking](https://www.reddit.com/r/networking/)
+- [/r/howtohack](https://www.reddit.com/r/HowToHack/)
+- [/r/sysadmin](https://www.reddit.com/r/sysadmin/)
+- [/r/securityblueteam](https://www.reddit.com/r/SecurityBlueTeam/)
+- [/r/security](https://www.reddit.com/r/security/)
 
+### Youtube Channels
+ - [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+ - [Network Chuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
+ - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+ - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+ - [DefCon](https://www.youtube.com/user/DEFCONConference)
+ - [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+ - [/dev/null](https://www.youtube.com/channel/UCGISJ8ZHkmIv1CaoHovK-Xw/videos)
+ - [Computerphile](https://www.youtube.com/user/Computerphile)
+ - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
+ - [DeviantOllam(Lock Picking)](https://www.youtube.com/user/DeviantOllam/videos)
+ - [Devon Crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA/videos)
+ - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+ - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+ - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
+ - [Alex Lee](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
+ - [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
+ - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+ - [The Shadow Brokers](https://www.youtube.com/channel/UCkpwPf2B4FphjqVcozDym0A)
+ - [Vinsolev Academy](https://www.youtube.com/channel/UC-OKxBgjKLBGHbueyIOWptw/videos)
+ 
+ ### Books/Publishers
+ - [No Starch Press](https://nostarch.com/)
+ - [Paket Press](https://www.packtpub.com/)
+ 
+ ### To Be Sorted
+ - [Hacker Sploit](https://hackersploit.org)
+ 
+ ### Bug Bountys
+  - [BugCrowd](https://www.bugcrowd.com/)
+  - [Hacker 1](https://www.hackerone.com/)
+ 
 ### \#\#TODO
 - Things to add
-  - Ansible
-  - Terraform
   - More blue team stuff
   - More coding stuff
   - Some networking stuff
-  - Bug bounty stuff
+  - Sorting System for the Youtube channels(Problem is some channels do more than one topic)
   - Other things I have yet to list
