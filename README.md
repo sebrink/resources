@@ -34,7 +34,7 @@ This is my collection of resources for learning computing security. They are mos
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
   - A list of projects for you to complete in many different languages.
 - [Free Code Camp](freeCodeCamp.org)
-  - A free website to learn web Development and their youtube channel has alot of great tutorials
+  - A free website to learn web Development and their youtube channel (\<hyperlink the words youtube channel to FCC youtube>) has alot of great tutorials. 
   
 ### Introduction to Linux
 - [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
@@ -44,10 +44,9 @@ This is my collection of resources for learning computing security. They are mos
   
 ### Networking 
  - Vinsolev Academy under youtube channels
+    - \<link to vinsolev academy under youtube> 
  
 ### Infrastructure
-- Ansiable
-- Terraform
 - [Introduction to Docker](https://www.katacoda.com/courses/docker/)
   - Interactive course on understanding docker.
 - [Introduction to Vagrant](https://psadmin.io/2016/10/04/introduction-to-vagrant/)
@@ -128,14 +127,12 @@ This is my collection of resources for learning computing security. They are mos
   - Helpful cheat sheets for remembering syntax.
 - [Assorted Pentest](https://dostoevskylabs.gitbooks.io/dostoevskylabs-pentest-notes/content/)
   - Gitbook of some pentesting notes, slightly outdated.
-- [Generic Tools Cheatsheet](https://imgur.com/a/3BLzONa#WCEP0nG)
-  - Some generic tools and techniques
 - [List of Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets)
   - List of useful windows logging cheatsheets
 - [(Large) Windows Forensics Cheatsheet](https://www.jaiminton.com/cheatsheet/DFIR)
   - Large Cheetsheet on Windows Forensics
   
-### Useful Subreddits
+### Useful Subreddits (needs descriptions)
 - [/r/netsec](https://www.reddit.com/r/netsec/)
 - [/r/asknetsec](https://www.reddit.com/r/asknetsec/)
 - [/r/netsecstudents](https://www.reddit.com/r/netsecstudents/)
@@ -156,7 +153,7 @@ This is my collection of resources for learning computing security. They are mos
 - [/r/securityblueteam](https://www.reddit.com/r/SecurityBlueTeam/)
 - [/r/security](https://www.reddit.com/r/security/)
 
-### Youtube Channels
+### Youtube Channels (needs descriptions)
  - [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
  - [Network Chuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
  - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
@@ -179,19 +176,27 @@ This is my collection of resources for learning computing security. They are mos
  
  ### Books/Publishers
  - [No Starch Press](https://nostarch.com/)
- - [Paket Press](https://www.packtpub.com/)
+    - <decsription\>
+ - [Packt Publishing](https://www.packtpub.com/)
+     - <decsription\>
  
  ### To Be Sorted
  - [Hacker Sploit](https://hackersploit.org)
+     - <decsription\>
  
  ### Bug Bountys
   - [BugCrowd](https://www.bugcrowd.com/)
-  - [Hacker 1](https://www.hackerone.com/)
+    - <description\>
+  - [HackerOne](https://www.hackerone.com/)
+    - <description\>
  
 ### \#\#TODO
 - Things to add
+  - Ansible
+  - Terraform
   - More blue team stuff
   - More coding stuff
   - Some networking stuff
   - Sorting System for the Youtube channels(Problem is some channels do more than one topic)
-  - Other things I have yet to list
+    - Descriptions? Tags? Etc. 
+  - Anything else I haven't thought of
