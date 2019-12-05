@@ -71,6 +71,8 @@ This is my collection of resources for learning computing security. They are mos
   - Free online web security training by the creators of burp suite.
 - [Pentester Labs](https://www.pentesterlab.com/)
   - Interactive web security challenges ranging over many topics.
+- [Google-Gruyere](https://google-gruyere.appspot.com)
+  - Shows how web application vulnerabilities can be exploited and how to defend against these attacks.
 
 ### Mobile Application Security
 - [Android Security Internals](https://www.amazon.com/Android-Security-Internals-Depth-Architecture/dp/1593275811)
@@ -117,6 +119,8 @@ This is my collection of resources for learning computing security. They are mos
   - Videos on RE, walkthroughs of CVEs, walkthroughs of CTFs, etc.
 - [Pwnable.kr](http://pwnable.kr/)
   - Binary Exploitation challenges
+- [Embedded Security](https://microcorruption.com/login)
+  - Reverse engineering challenges
 
 ### Crypto
 - [Cryptopals](https://www.cryptopals.com/)
