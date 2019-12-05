@@ -121,6 +121,9 @@ This is my collection of resources for learning computing security. They are mos
   - Binary Exploitation challenges
 - [Embedded Security](https://microcorruption.com/login)
   - Reverse engineering challenges
+- [Intro to Android RE](https://maddiestone.github.io/AndroidAppRE/)
+  - Course on getting into android reverse engineering
+
 
 ### Crypto
 - [Cryptopals](https://www.cryptopals.com/)
