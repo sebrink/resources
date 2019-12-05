@@ -117,6 +117,8 @@ This is my collection of resources for learning computing security. They are mos
   - Videos on RE, walkthroughs of CVEs, walkthroughs of CTFs, etc.
 - [Pwnable.kr](http://pwnable.kr/)
   - Binary Exploitation challenges
+- [Intro to Android RE](https://maddiestone.github.io/AndroidAppRE/)
+  - Course on getting into android reverse engineering
 
 ### Crypto
 - [Cryptopals](https://www.cryptopals.com/)
