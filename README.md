@@ -1,7 +1,7 @@
 # Resources
 
 ## Introduction
-This is my collection of resources for learning computing security. They are mostly interactive, but some sections may contain reading or tools that I feel are worth including. This is not meant to be comprehensive whatsoever, this is meant to just be where I keep track of stuff that I find useful. Feel free to make pull requests to add whatever you would like. This is listed in no order whatsoever.
+This is a collection of resources for learning computing security. They are mostly interactive, but some sections may contain reading or tools that I feel are worth including. This is not meant to be comprehensive whatsoever, this is meant to just be a collection of stuff that people have found top be useful. Feel free to make pull requests to add whatever you would like. This is listed in no order whatsoever.
 
 ## Table of Contents
 - [Resources](#resources)
@@ -16,13 +16,14 @@ This is my collection of resources for learning computing security. They are mos
     - [Mobile Application Security](#mobile-application-security)
     - [Network Penetration Testing](#network-penetration-testing)
     - [CTF](#ctf)
-    - [Reversing & Binary Exploitation](#reversing--binary-exploitation)
+    - [Reversing &amp; Binary Exploitation](#reversing-amp-binary-exploitation)
     - [Crypto](#crypto)
     - [Cheat Sheets](#cheat-sheets)
-    - [Useful Subreddits](#useful-subreddits)
-    - [Youtube Channels](#youtube-channels)
+    - [Useful Subreddits (needs descriptions)](#useful-subreddits-needs-descriptions)
+    - [Youtube Channels (needs descriptions)](#youtube-channels-needs-descriptions)
+    - [Books/Publishers](#bookspublishers)
     - [Bug Bountys](#bug-bountys)
-    - [\#\#TODO](#todo)
+    - [##TODO](#todo)
 
 ### Coding
 - [Introduction to Git](https://git-scm.com/book/en/v2)
@@ -34,17 +35,17 @@ This is my collection of resources for learning computing security. They are mos
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
   - A list of projects for you to complete in many different languages.
 - [Free Code Camp](freeCodeCamp.org)
-  - A free website to learn web Development and their youtube channel (\<hyperlink the words youtube channel to FCC youtube>) has alot of great tutorials. 
+  - A free website to learn web Development and their [YouTube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) has a lot of great tutorials. 
   
 ### Introduction to Linux
 - [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
-  - Wargames designed to learn the basics of linux.
+  - War games designed to learn the basics of linux.
 - [Linux Journey](https://linuxjourney.com/)
   - Interactive course to learn the basics of linux.
   
 ### Networking 
- - Vinsolev Academy under youtube channels
-    - \<link to vinsolev academy under youtube> 
+- [Vinsolev Academy](https://www.youtube.com/watch?v=rIZ61PyDkH8&list=PLR0bgGon_WTKY2irHaG_lNRZTrA7gAaCj)
+  - Introduction to networking course on YouTube.
  
 ### Infrastructure
 - [Introduction to Docker](https://www.katacoda.com/courses/docker/)
@@ -124,7 +125,6 @@ This is my collection of resources for learning computing security. They are mos
 - [Intro to Android RE](https://maddiestone.github.io/AndroidAppRE/)
   - Course on getting into android reverse engineering
 
-
 ### Crypto
 - [Cryptopals](https://www.cryptopals.com/)
   - A list of crypto challenges.
@@ -168,42 +168,32 @@ This is my collection of resources for learning computing security. They are mos
  - [DefCon](https://www.youtube.com/user/DEFCONConference)
  - [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
  - [/dev/null](https://www.youtube.com/channel/UCGISJ8ZHkmIv1CaoHovK-Xw/videos)
- - [Computerphile](https://www.youtube.com/user/Computerphile)
- - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
  - [DeviantOllam(Lock Picking)](https://www.youtube.com/user/DeviantOllam/videos)
  - [Devon Crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA/videos)
  - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
- - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
  - [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
  - [Alex Lee](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
  - [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
  - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
  - [The Shadow Brokers](https://www.youtube.com/channel/UCkpwPf2B4FphjqVcozDym0A)
- - [Vinsolev Academy](https://www.youtube.com/channel/UC-OKxBgjKLBGHbueyIOWptw/videos)
  
  ### Books/Publishers
- - [No Starch Press](https://nostarch.com/)
-    - <decsription\>
- - [Packt Publishing](https://www.packtpub.com/)
-     - <decsription\>
- 
- ### To Be Sorted
- - [Hacker Sploit](https://hackersploit.org)
-     - <decsription\>
+ - [No Starch Press](https://nostarch.com/catalog/)
+    - Technical books on hardware, programming, hacking, firewalls, and much more.
+ - [Packt Publishing](https://www.packtpub.com/free-learning)
+     - Technical books. Packt also releases a free ebook every single day!
  
  ### Bug Bountys
   - [BugCrowd](https://www.bugcrowd.com/)
-    - <description\>
+    - A site with a collection of bug bounty programs. This site also contains a feed of disclosed vulnerabilities for these programs, which can be helpful for learning.
   - [HackerOne](https://www.hackerone.com/)
-    - <description\>
+    - A site with a collection of bug bounty programs. This site also contains a feed of disclosed vulnerabilities for these programs, which can be helpful for learning.
  
 ### \#\#TODO
 - Things to add
   - Ansible
   - Terraform
   - More blue team stuff
-  - More coding stuff
-  - Some networking stuff
-  - Sorting System for the Youtube channels(Problem is some channels do more than one topic)
+  - Sorting System for the YouTube channels(Problem is some channels do more than one topic)
     - Descriptions? Tags? Etc. 
   - Anything else I haven't thought of
